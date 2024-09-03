@@ -201,9 +201,10 @@ header nav a {
 }
 
 .separador {
+    text-align: start;
     border: none;
     border-top: 6px solid #FFF;
-    margin: 0px;
+    margin: 10px;
 }
 
 img{
